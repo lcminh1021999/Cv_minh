@@ -333,7 +333,9 @@ display: flex;
 align-items: center;
 
 }
-
+main aside .content .text ul li{
+    padding-top: 10px;
+}
 
 main aside .content .text .skill div{
     width: 15px;
