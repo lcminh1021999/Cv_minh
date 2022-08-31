@@ -336,7 +336,9 @@ align-items: center;
 main aside .content .text ul li{
     padding-top: 10px;
 }
-
+main aside .content .text ul{
+margin: 0;
+}
 main aside .content .text .skill div{
     width: 15px;
     height: 15px;
